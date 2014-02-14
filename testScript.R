@@ -1,0 +1,1 @@
+This is a test of Git integration with an R file. Check diff and stages.
